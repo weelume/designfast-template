@@ -1,0 +1,10 @@
+'use client'
+import {ui} from '../content/ui'
+import Link from 'next/link'
+import type { SiteTemplatePageProps } from '../../../types'
+import { asset } from '../config/brand'
+import { services } from '../content/data'
+import { Layout } from '../components/Layout'
+import { InteriorHero } from '../components/InteriorHero'
+import { Reveal } from '../components/Primitives'
+export default function ServicesPage(props:SiteTemplatePageProps){const locale=props.locale||'zh';return <Layout {...props}><InteriorHero title={ui.servicespage_services[locale]} description={ui.servicespage_from_branding_to_websites_we_deliver_high[locale]} image="bh6twORlGIpOIrIMuIkukevjAZM.jpg"/><section className="df-container df-service-grid">{services.map((service,i)=><Reveal key={service.slug} delay={(i%2)*.1}><Link className="df-service-card df-glass" href={`${props.basePath}/services/${service.slug}`}><img src={asset(service.image)} alt={service.name[locale]} width="160" height="140"/><div><h2>{service.name[locale]}</h2><p>{service.description[locale]}</p></div></Link></Reveal>)}</section></Layout>}

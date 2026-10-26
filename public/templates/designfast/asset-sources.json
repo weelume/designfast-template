@@ -1,0 +1,622 @@
+{
+  "reference": "https://designfast-demo.framer.website/",
+  "assets": [
+    {
+      "file": "55ZGT1Yt09uBuw7UDfieDXLbIQ.jpg",
+      "url": "https://framerusercontent.com/images/55ZGT1Yt09uBuw7UDfieDXLbIQ.jpg",
+      "bytes": 196416,
+      "sha256": "c4fe9f69bad238370c225f2e37a613420248f2334504b1fa65c32e1e24e420eb",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "f091d7dd3ddfcdcf8135be7da3274ae7923a03701bbf827e71c3a6dbf9055503",
+      "sourceBytes": 741993,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "4cNO6HSddAEje7x0Y7YykaHVgCE.jpg",
+      "url": "https://framerusercontent.com/images/4cNO6HSddAEje7x0Y7YykaHVgCE.jpg",
+      "bytes": 128171,
+      "sha256": "9ebd82e23c2dc0d1bbaf8b4e71b63f116bdd0514392583beca010b6e616723f7",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "059a134449b32b718170bb30a2124a1f9d018ffbbfcc22c72ff2b6cf85d34c65",
+      "sourceBytes": 552110,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "7gYgDLBCFcz6Fp5v6De2M3QsjAk.jpg",
+      "url": "https://framerusercontent.com/images/7gYgDLBCFcz6Fp5v6De2M3QsjAk.jpg",
+      "bytes": 197533,
+      "sha256": "6d8256949f2db7addf925142571a9101a718294f25b8a2739967bab6a858f2ca",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "e1f131aa453f40c4a499b529f9b5387a314aa2cd7265bfa0849bc73f3a6f4bea",
+      "sourceBytes": 1147072,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "aXm7l3DIpRNKp23wuPRMMWGFCxc.jpg",
+      "url": "https://framerusercontent.com/images/aXm7l3DIpRNKp23wuPRMMWGFCxc.jpg",
+      "bytes": 168110,
+      "sha256": "4cb833c110db39139a64b0f6d50e7f0365cbb5747370e76907fd7b2633ebd97e",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "6fc0fe376ee8ff839d7c2eff023f25af80d8ee022d8260f66957d4e960a11bc8",
+      "sourceBytes": 2631673,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "JKorM5B0WmJOc8WoLSGW2e0hNG8.jpg",
+      "url": "https://framerusercontent.com/images/JKorM5B0WmJOc8WoLSGW2e0hNG8.jpg",
+      "bytes": 324791,
+      "sha256": "378acbaf587780e6426635cff8fd39b713b796416215ff0b4cd6fb30f785f5d4",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "76395aaa6928da74742c6bf6f20f76d6863f975438c07bd992c219ecd0bdf0b3",
+      "sourceBytes": 3346606,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "5P0eN6qtSxQg8Lrk6rw2GR9e7eI.jpg",
+      "url": "https://framerusercontent.com/images/5P0eN6qtSxQg8Lrk6rw2GR9e7eI.jpg",
+      "bytes": 139583,
+      "sha256": "1e505db94d5122c9f4b3948906c30095abf108ffa133d9eaf8546742a8434097",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "74c2ea4152c18408d17f866411dd8c4bbfbd6a47a3c6a21b7250a8c8dc173822",
+      "sourceBytes": 1716739,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "TRAoU3epjWbVl0efchYFEO28ugY.jpg",
+      "url": "https://framerusercontent.com/images/TRAoU3epjWbVl0efchYFEO28ugY.jpg",
+      "bytes": 178795,
+      "sha256": "b36dc03b45c0b0dcfa459c45be88a60c433fd9e1d695b1b8b944eb2a6a62b275",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "4d4df38a50942fec781d57a1b8c4b6e9c04c20882815edd0080255ce8e46f408",
+      "sourceBytes": 286170,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+      "url": "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+      "bytes": 215,
+      "sha256": "6fce5a0604a6267ad769dd5e7afbfcf8bd0390897f682aec71f6307999a5b67e",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "6fce5a0604a6267ad769dd5e7afbfcf8bd0390897f682aec71f6307999a5b67e",
+      "sourceBytes": 215,
+      "transformation": "none"
+    },
+    {
+      "file": "6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+      "url": "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+      "bytes": 214,
+      "sha256": "ca764b5867087d3c5ffc2bb0497a50b2ecf18ae7252169951ec97e18a592973d",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "ca764b5867087d3c5ffc2bb0497a50b2ecf18ae7252169951ec97e18a592973d",
+      "sourceBytes": 214,
+      "transformation": "none"
+    },
+    {
+      "file": "zUyRr7fPY3hIr0zdviY3woT6oYM.png",
+      "url": "https://framerusercontent.com/images/zUyRr7fPY3hIr0zdviY3woT6oYM.png",
+      "bytes": 2412,
+      "sha256": "e86b80910c7e144b9b68dcd775d1e5c27032f98dafbb94dbb0c43bd48c4ac8f5",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "e86b80910c7e144b9b68dcd775d1e5c27032f98dafbb94dbb0c43bd48c4ac8f5",
+      "sourceBytes": 2412,
+      "transformation": "none"
+    },
+    {
+      "file": "SxzTLiNEeuCPxt7HTFNnCyB5Vo.jpg",
+      "url": "https://framerusercontent.com/images/SxzTLiNEeuCPxt7HTFNnCyB5Vo.jpg",
+      "bytes": 119779,
+      "sha256": "cf6b67349789e3d2efdd2bd5c54ca19c07352365a0b8901dfd0171b450761d33",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "fd8896bf7419be7edb7fa43068ac9bb0e51512a60ef09cc00a3bb9c6f0de13e2",
+      "sourceBytes": 781762,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "NcnRIvDEj61lIrFb1L5bx1W6yUQ.png",
+      "url": "https://framerusercontent.com/images/NcnRIvDEj61lIrFb1L5bx1W6yUQ.png",
+      "bytes": 1866,
+      "sha256": "d662bd558806ddf51eda0936ee0f71d469220e620cfe272ae4f2c4788f36b40f",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "d662bd558806ddf51eda0936ee0f71d469220e620cfe272ae4f2c4788f36b40f",
+      "sourceBytes": 1866,
+      "transformation": "none"
+    },
+    {
+      "file": "NVy8wXghb94qjyKOr15qEZZiVug.png",
+      "url": "https://framerusercontent.com/images/NVy8wXghb94qjyKOr15qEZZiVug.png",
+      "bytes": 2698,
+      "sha256": "e94e1e75ffd1a4b887c67e56ed8952c8a0919bcd00778a51642b6c455a311733",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "e94e1e75ffd1a4b887c67e56ed8952c8a0919bcd00778a51642b6c455a311733",
+      "sourceBytes": 2698,
+      "transformation": "none"
+    },
+    {
+      "file": "frIRTQtWzZtRqHIEmCPBF6Z9XTM.png",
+      "url": "https://framerusercontent.com/images/frIRTQtWzZtRqHIEmCPBF6Z9XTM.png",
+      "bytes": 2061,
+      "sha256": "7e9cb14c10fa56911c4ebecbd887250c083e5836e47f08aff9e93a10dc3851a8",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "7e9cb14c10fa56911c4ebecbd887250c083e5836e47f08aff9e93a10dc3851a8",
+      "sourceBytes": 2061,
+      "transformation": "none"
+    },
+    {
+      "file": "pXAJrgHa01ZUq3D9AZY26N3ePWo.png",
+      "url": "https://framerusercontent.com/images/pXAJrgHa01ZUq3D9AZY26N3ePWo.png",
+      "bytes": 2451,
+      "sha256": "18db518fe72f35bbaa5a9fd6779c0ef8ffa2b331aa8cb0363959a5540eaa9c8e",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "18db518fe72f35bbaa5a9fd6779c0ef8ffa2b331aa8cb0363959a5540eaa9c8e",
+      "sourceBytes": 2451,
+      "transformation": "none"
+    },
+    {
+      "file": "f3nL13iNp1N7Pg6x37FzVgzg.png",
+      "url": "https://framerusercontent.com/images/f3nL13iNp1N7Pg6x37FzVgzg.png",
+      "bytes": 21088,
+      "sha256": "a5e96e0d4cd4084514203ff9197186e791c3a26a4d38f8817a4cdfbf70a45a8e",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "a5e96e0d4cd4084514203ff9197186e791c3a26a4d38f8817a4cdfbf70a45a8e",
+      "sourceBytes": 21088,
+      "transformation": "none"
+    },
+    {
+      "file": "5Ldw0dcNe266RHADE34yYcZDZN8.png",
+      "url": "https://framerusercontent.com/images/5Ldw0dcNe266RHADE34yYcZDZN8.png",
+      "bytes": 3889,
+      "sha256": "d4a1a5f114761b08130a7392f0caf5389c72743d71782f946ef9080595710eb4",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "d4a1a5f114761b08130a7392f0caf5389c72743d71782f946ef9080595710eb4",
+      "sourceBytes": 3889,
+      "transformation": "none"
+    },
+    {
+      "file": "RtfWr8jd3VeVSMWUCxaOsrObE44.jpg",
+      "url": "https://framerusercontent.com/images/RtfWr8jd3VeVSMWUCxaOsrObE44.jpg",
+      "bytes": 120611,
+      "sha256": "a691dce710746d0da248eb6ec424aaceff7495fc255cd142ba032e101bbca071",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "787e55ab1ec0a8a52b0f0666e9501caf8005cae440d265b672f452ca6620cef3",
+      "sourceBytes": 1727738,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "bh6twORlGIpOIrIMuIkukevjAZM.jpg",
+      "url": "https://framerusercontent.com/images/bh6twORlGIpOIrIMuIkukevjAZM.jpg",
+      "bytes": 78690,
+      "sha256": "4e4bcf2a43ca7c1d7c9eb6f00e477c620ccf0c4a0c9ffe8a92d881be489cc6d7",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "9d425a57d02c62dc35576ff1558a293893ebc9a03e54336aa2279a469a1dc596",
+      "sourceBytes": 3922691,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "HH8KrojyxZx6X20z1r13CSwiiWE.jpg",
+      "url": "https://framerusercontent.com/images/HH8KrojyxZx6X20z1r13CSwiiWE.jpg",
+      "bytes": 159322,
+      "sha256": "ab8f2f9308da7991a2e19735c09a509fc52eaeca5eeb377bd04f7f9dbd798751",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "474efd597ae4cbc6271ac5fa95d2b244b7c04291c9bb8cc304f5b59c60ca720d",
+      "sourceBytes": 2806529,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "mwZ7ybDXbnVfQXHMMjzWiP7BpI.jpg",
+      "url": "https://framerusercontent.com/images/mwZ7ybDXbnVfQXHMMjzWiP7BpI.jpg",
+      "bytes": 341132,
+      "sha256": "036704d45e0764b099ffde707348d217e7697dfdfb9cefa6c61ada045f0f8e01",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "bae1ab237c7e8dac5bda63198e0c2aad2f16e6d7b0732d9cb1938e631ad043b3",
+      "sourceBytes": 1829653,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "1cWxyH3NULyTRplCQ1ZfKK2g.jpg",
+      "url": "https://framerusercontent.com/images/1cWxyH3NULyTRplCQ1ZfKK2g.jpg",
+      "bytes": 55060,
+      "sha256": "2a04f79a265808b2004604757f2c662cde07c5341684b76a1dc3d872a7bf2ea2",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "7c5f7158906958236347a13835eeb7840a48f6f2383dc3662ce96f7171e254fd",
+      "sourceBytes": 7377422,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "GjuCEc3VTzQ5osnFXD5Vu6Tx8Y.jpg",
+      "url": "https://framerusercontent.com/images/GjuCEc3VTzQ5osnFXD5Vu6Tx8Y.jpg",
+      "bytes": 133743,
+      "sha256": "87c9725190ee6ef5707b103ff2612e524496398a2df53be98cc79306828a78c6",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "760a606c517701677574f99998c0a7ac61061c233082d7fc2ca5beee916aa950",
+      "sourceBytes": 2831943,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "pp9cwGQjxFsdAc3D2ufUtzfufU.jpg",
+      "url": "https://framerusercontent.com/images/pp9cwGQjxFsdAc3D2ufUtzfufU.jpg",
+      "bytes": 122900,
+      "sha256": "64878861712673aef6f90f31fd17eb0898afc9f8b1baf65a60a7c598d408dcbe",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "493e136d43274458a9bf2aaacb97665a82b1c62d5b20c9ef7a7426ee69aa00cb",
+      "sourceBytes": 1891062,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "0g1NFFzgEwVSVsRaGntwvAkeSIA.jpg",
+      "url": "https://framerusercontent.com/images/0g1NFFzgEwVSVsRaGntwvAkeSIA.jpg",
+      "bytes": 86311,
+      "sha256": "665630cd632e43ca4dcfea5f2eb6649eac3766a3fb6144307650d147c4a80a7d",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "ba0357b9ab924a4ff66f931303ca04526f7a360c15b2ca22ff1192afad54238a",
+      "sourceBytes": 2627302,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "7ckekOZAa0J28C2T3IfYTvNDv5U.jpg",
+      "url": "https://framerusercontent.com/images/7ckekOZAa0J28C2T3IfYTvNDv5U.jpg",
+      "bytes": 483044,
+      "sha256": "8b6eacbf2bf96a98c7f39292dc085a58a3cea80b7c2a3b2c7d03f536a269984e",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "d7a92cde5e050f20718f6d5c958b346e0cabdcafc0086b3c5b2c28c4a0a3987e",
+      "sourceBytes": 2466763,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg",
+      "url": "https://framerusercontent.com/images/iABb6ejla3A5ZzE4zgxiPqBaYHI.jpg",
+      "bytes": 436389,
+      "sha256": "cfbeba874d6de8eeb7727363fe3fe2fb16ed96f271132a934334f6a373aae88b",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "d3c0c88a6b46b95e1ba5bece168874b2063c8eccac9f4448f3a72b79a60a33f7",
+      "sourceBytes": 4204148,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "jOsKJnuv0mdMiIeuMmIz2NVvts.jpg",
+      "url": "https://framerusercontent.com/images/jOsKJnuv0mdMiIeuMmIz2NVvts.jpg",
+      "bytes": 201916,
+      "sha256": "aca1ba85a2f13dc45c49f3f50a395872e236c42efb616ea36bd95a1a6f5a63b3",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "d700e0de873f05a5260ab34b11fe281cd1b5490e2f659314ba89e7c63645af03",
+      "sourceBytes": 10051480,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "LsJGvkbYbF1y4ifkFrjeNfRfzYM.jpg",
+      "url": "https://framerusercontent.com/images/LsJGvkbYbF1y4ifkFrjeNfRfzYM.jpg",
+      "bytes": 203304,
+      "sha256": "c01ff22df4cf45a11990cddf6757344b8a2fea552a9028e374a714bbeb72aaf5",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "fa3de508ebf4c18449c02f261ced600030f1a4e1ead6f8b008c66433bef4b948",
+      "sourceBytes": 2356414,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "XOgTNGhNhIIdGFoazkqqnG9QmE.jpg",
+      "url": "https://framerusercontent.com/images/XOgTNGhNhIIdGFoazkqqnG9QmE.jpg",
+      "bytes": 203034,
+      "sha256": "700bd5e4edc9fd94cc912009552d4882c674e91d1c2abd3e8a7393dca131ac0a",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "5281dbb95f99d744ef18f1101556d0f558f3106bf62bcf4fc6c256177774514a",
+      "sourceBytes": 1328775,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "8jpvtN1LhtGTLfO40jCfOWkYilI.jpg",
+      "url": "https://framerusercontent.com/images/8jpvtN1LhtGTLfO40jCfOWkYilI.jpg",
+      "bytes": 154485,
+      "sha256": "75fd98550eb46a87c8b5bb0c0a2ee065477e3e6196eadbc32886dd58ba0b1de2",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "8a27ba430629cc82fde56cad150d7b34f344073111b803b3844e3b06d2925f23",
+      "sourceBytes": 1058804,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "rsJ7qH7Mbs7CJkuvl24AzIdFM8Y.jpg",
+      "url": "https://framerusercontent.com/images/rsJ7qH7Mbs7CJkuvl24AzIdFM8Y.jpg",
+      "bytes": 200948,
+      "sha256": "0cd0b771671a62726e3c7a3114d79120a968f65e048b47fb366ce5d8cd0aece6",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "879ffc0e0f07ecac0e5993882e3a6f3f73ab935205a2a2d492371d6f07305c4c",
+      "sourceBytes": 1353798,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "1ApcT7kVDOZTELD8XFISmocdiA.jpg",
+      "url": "https://framerusercontent.com/images/1ApcT7kVDOZTELD8XFISmocdiA.jpg",
+      "bytes": 383491,
+      "sha256": "182065e11ee6208fd03d73d84685b624ed4b0c9732e6b6119f0a6fcfddc175a3",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "d28cd507e07c746e30287860ebf2ff52533aee5d5a1290aba7d188d162d0fa7b",
+      "sourceBytes": 3169380,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "12IM56X1J3khgmEakCsZKd9EGLY.jpg",
+      "url": "https://framerusercontent.com/images/12IM56X1J3khgmEakCsZKd9EGLY.jpg",
+      "bytes": 345804,
+      "sha256": "4f1de756aa0b3e71128f43f2d50425bc6bd1fd0c65c857036ab54c0a1a0fc1c0",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "f88bd2af61202a2751a8791e1240b23dbf5129a09576c9b77abdf282a2046ed8",
+      "sourceBytes": 2810407,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "tD5WvGTRPvrCl4Sp2YxwRHyGLCU.jpg",
+      "url": "https://framerusercontent.com/images/tD5WvGTRPvrCl4Sp2YxwRHyGLCU.jpg",
+      "bytes": 153318,
+      "sha256": "a2a6a0693115a27b16ef7e00cbdcd74755705c36a25010549bf379d303c787a2",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "b8805945cc1c6e88ede6684fe0207d9e60ae3ddd70f94152ee0252e7af845d62",
+      "sourceBytes": 855750,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "Im1JPurytJLf7jHh3xmzZTG0Q.jpg",
+      "url": "https://framerusercontent.com/images/Im1JPurytJLf7jHh3xmzZTG0Q.jpg",
+      "bytes": 129686,
+      "sha256": "d49c16ce466f4c5f5ee06b46f4e498a3944ce8419c98894bd61e59d933ce51a8",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "8e3802d98e6c6e5c55f6324c7cd358267797834bbebe1260f03294b6a8c99cfc",
+      "sourceBytes": 1578693,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "Ok6cd4z826F0Gks9sFfcGFjFzY.jpg",
+      "url": "https://framerusercontent.com/images/Ok6cd4z826F0Gks9sFfcGFjFzY.jpg",
+      "bytes": 92574,
+      "sha256": "f1fa1f4c47411d70da09395e6ac0f6245bdb01532e7810ea4946b5c42dbd1c75",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "85cb802e12fd88cacc0f1a0e04287bcc30972c15c2ac742a90e402d58d588883",
+      "sourceBytes": 545978,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "lbVqqE24m5hD12toyeGwZW0.jpg",
+      "url": "https://framerusercontent.com/images/lbVqqE24m5hD12toyeGwZW0.jpg",
+      "bytes": 113097,
+      "sha256": "a7afbc926214fa3537aed7263ea132b29194c633d44812d8f0b2d838fb120e7e",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "f920c24e97f8d66dc3f7a0308ee302fd2abc8c3c7c93b41c984fce1023f98998",
+      "sourceBytes": 3187520,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "wEGJDX3FOPrd8O1W1oAwcHOYNQ.jpg",
+      "url": "https://framerusercontent.com/images/wEGJDX3FOPrd8O1W1oAwcHOYNQ.jpg",
+      "bytes": 100695,
+      "sha256": "d3eef3dbe4d650b19592445cd2cdea1f42a15c94f3ec6a22309bd68ca53eb93b",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "d49a7a91f4819a9b1ce3666a601b81d220975e76799d867e1ef9cfde286981e4",
+      "sourceBytes": 4699878,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "3Vaf8IQA9s5gOTr4rddfOwPxJ8.jpg",
+      "url": "https://framerusercontent.com/images/3Vaf8IQA9s5gOTr4rddfOwPxJ8.jpg",
+      "bytes": 240160,
+      "sha256": "408786ca3c0f053dc4060fb16d0e7ec97413ee734562d0b7618cb2b8078b753c",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceSha256": "6a6c1d6353d2a12ab6274a97a9b4b19fa5106391bd65d2c7040774923bbb91d7",
+      "sourceBytes": 505676,
+      "transformation": "JPEG quality 82, fit inside 1600×2400, no enlargement"
+    },
+    {
+      "file": "brand.svg",
+      "url": null,
+      "bytes": 146,
+      "sha256": "90221fdaa64d6fe43c6a766ee951c40951eaac7d00ebcf1a69c0ec62a6e73dd7",
+      "license": "本项目实现的演示品牌图形",
+      "sourceSha256": "90221fdaa64d6fe43c6a766ee951c40951eaac7d00ebcf1a69c0ec62a6e73dd7",
+      "sourceBytes": 146,
+      "transformation": "none"
+    },
+    {
+      "file": "integration-0.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 631,
+      "sha256": "29875992afa0ffac8e087e3c9401c524e5242e3573c6bec4c9f56478cae124f6",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceDescription": "从已观察的Phosphor SVG路径重建静态文件",
+      "sourceSha256": "29875992afa0ffac8e087e3c9401c524e5242e3573c6bec4c9f56478cae124f6",
+      "sourceBytes": 631,
+      "transformation": "none"
+    },
+    {
+      "file": "integration-1.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 335,
+      "sha256": "4a3b76af7760a749b78e64bacda1e9fdd03fadefe1bcba75241aa02eff6c58cc",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceDescription": "从已观察的Phosphor SVG路径重建静态文件",
+      "sourceSha256": "4a3b76af7760a749b78e64bacda1e9fdd03fadefe1bcba75241aa02eff6c58cc",
+      "sourceBytes": 335,
+      "transformation": "none"
+    },
+    {
+      "file": "integration-2.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 416,
+      "sha256": "7d612d54fc04cd0cc6f386403233ed1cf445034917ce8dbc662aa7be44395ea5",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceDescription": "从已观察的Phosphor SVG路径重建静态文件",
+      "sourceSha256": "7d612d54fc04cd0cc6f386403233ed1cf445034917ce8dbc662aa7be44395ea5",
+      "sourceBytes": 416,
+      "transformation": "none"
+    },
+    {
+      "file": "integration-3.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 566,
+      "sha256": "f42f281e34e2c6162859b3a4ff745e875a235d46079176c5af9572eace0b389b",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceDescription": "从已观察的Phosphor SVG路径重建静态文件",
+      "sourceSha256": "f42f281e34e2c6162859b3a4ff745e875a235d46079176c5af9572eace0b389b",
+      "sourceBytes": 566,
+      "transformation": "none"
+    },
+    {
+      "file": "integration-4.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 1116,
+      "sha256": "fdd30146284939e454dc2be2bdda951bcadc37cb84d4991eabe1cc11a02e0fc0",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceDescription": "从已观察的Phosphor SVG路径重建静态文件",
+      "sourceSha256": "fdd30146284939e454dc2be2bdda951bcadc37cb84d4991eabe1cc11a02e0fc0",
+      "sourceBytes": 1116,
+      "transformation": "none"
+    },
+    {
+      "file": "integration-5.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 398,
+      "sha256": "d18cde4732696c81c48e9f2e4265727fa85dd49d2f1a4b3425ad8eff72f73ece",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceDescription": "从已观察的Phosphor SVG路径重建静态文件",
+      "sourceSha256": "d18cde4732696c81c48e9f2e4265727fa85dd49d2f1a4b3425ad8eff72f73ece",
+      "sourceBytes": 398,
+      "transformation": "none"
+    },
+    {
+      "file": "integration-6.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 886,
+      "sha256": "04b85486ed4f835b1da20d2a82b7e2ff9087e279bce99203c250fce89bac7797",
+      "license": "第三方演示素材，商业再分发许可尚未核实",
+      "sourceDescription": "从已观察的Phosphor SVG路径重建静态文件",
+      "sourceSha256": "04b85486ed4f835b1da20d2a82b7e2ff9087e279bce99203c250fce89bac7797",
+      "sourceBytes": 886,
+      "transformation": "none"
+    },
+    {
+      "file": "why-no-contracts.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 493,
+      "sha256": "3f7266deeda9f91725b2125d25426b25bc9895225d59d3d115232656f8b2e001",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "3f7266deeda9f91725b2125d25426b25bc9895225d59d3d115232656f8b2e001",
+      "sourceBytes": 493
+    },
+    {
+      "file": "why-conversion-focused.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 686,
+      "sha256": "78b5e5ce9885e153344f76b29801a395e7ca911fc4454c1b3c1305674c225ac1",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "78b5e5ce9885e153344f76b29801a395e7ca911fc4454c1b3c1305674c225ac1",
+      "sourceBytes": 686
+    },
+    {
+      "file": "why-rapid-delivery.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 420,
+      "sha256": "19032c47bef763347746703fe7c0d522d15a85ba91c21b809c576cfc757d83f0",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "19032c47bef763347746703fe7c0d522d15a85ba91c21b809c576cfc757d83f0",
+      "sourceBytes": 420
+    },
+    {
+      "file": "brand-identity-icon.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 349,
+      "sha256": "ba24d60be7c9a058d242e690c2fab8ca659baf31c77281644356aa2dff148b9a",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "ba24d60be7c9a058d242e690c2fab8ca659baf31c77281644356aa2dff148b9a",
+      "sourceBytes": 349
+    },
+    {
+      "file": "graphic-design-icon.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 540,
+      "sha256": "38aee4ca3b4958a704b8c491b9a701b72b9c675fd82d16e67f078e8db1e22490",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "38aee4ca3b4958a704b8c491b9a701b72b9c675fd82d16e67f078e8db1e22490",
+      "sourceBytes": 540
+    },
+    {
+      "file": "framer-design-icon.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 355,
+      "sha256": "f735b75fe5bcdc8bde044e8bcdd64d78a5a98e714e359a0fe2615c310a23513c",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "f735b75fe5bcdc8bde044e8bcdd64d78a5a98e714e359a0fe2615c310a23513c",
+      "sourceBytes": 355
+    },
+    {
+      "file": "web-design-icon.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 357,
+      "sha256": "00f161c8f58155b128fd29a87d04fa1bcb82fdaacc7641b9d99f745ff893e717",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "00f161c8f58155b128fd29a87d04fa1bcb82fdaacc7641b9d99f745ff893e717",
+      "sourceBytes": 357
+    },
+    {
+      "file": "home-stat-0.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 344,
+      "sha256": "61f8124d138cf7ffc2e3688ac8e7e68e1986c022e0bab14f670a992ec4386493",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "61f8124d138cf7ffc2e3688ac8e7e68e1986c022e0bab14f670a992ec4386493",
+      "sourceBytes": 344
+    },
+    {
+      "file": "home-stat-1.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 957,
+      "sha256": "99d681dfa08bcb69462e13d0a6ec34723ea5fe505ab5c5122377914cebcbb09a",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "99d681dfa08bcb69462e13d0a6ec34723ea5fe505ab5c5122377914cebcbb09a",
+      "sourceBytes": 957
+    },
+    {
+      "file": "home-stat-2.svg",
+      "url": "https://designfast-demo.framer.website/",
+      "bytes": 957,
+      "sha256": "99d681dfa08bcb69462e13d0a6ec34723ea5fe505ab5c5122377914cebcbb09a",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "99d681dfa08bcb69462e13d0a6ec34723ea5fe505ab5c5122377914cebcbb09a",
+      "sourceBytes": 957
+    },
+    {
+      "file": "about-stat-0.svg",
+      "url": "https://designfast-demo.framer.website/about-us",
+      "bytes": 427,
+      "sha256": "48c6bebc7cf90252ef83b63f855963df7bdaf80ff0c5a95a8ba02752df8729cf",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "48c6bebc7cf90252ef83b63f855963df7bdaf80ff0c5a95a8ba02752df8729cf",
+      "sourceBytes": 427
+    },
+    {
+      "file": "about-stat-1.svg",
+      "url": "https://designfast-demo.framer.website/about-us",
+      "bytes": 461,
+      "sha256": "e157437b5f53b515fd1d88d76a38f1cf317a1bea129b7e2b9e3d8ca7ee1c61b1",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "e157437b5f53b515fd1d88d76a38f1cf317a1bea129b7e2b9e3d8ca7ee1c61b1",
+      "sourceBytes": 461
+    },
+    {
+      "file": "about-stat-2.svg",
+      "url": "https://designfast-demo.framer.website/about-us",
+      "bytes": 559,
+      "sha256": "1f5c8512d431bcac02cf0404f06d4eecb59bbb48df01323d4f9462ac1eaca43f",
+      "license": "第三方演示图标，商业再分发许可尚未核实",
+      "transformation": "none",
+      "sourceSha256": "1f5c8512d431bcac02cf0404f06d4eecb59bbb48df01323d4f9462ac1eaca43f",
+      "sourceBytes": 559
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+'use client'
+import {ui} from '../content/ui'
+import Link from 'next/link'
+import type { SiteTemplatePageProps } from '../../../types'
+import { asset } from '../config/brand'
+import { cases } from '../content/data'
+import { Layout } from '../components/Layout'
+import { InteriorHero } from '../components/InteriorHero'
+import { Reveal } from '../components/Primitives'
+export default function CasesPage(props:SiteTemplatePageProps){const locale=props.locale||'zh';return <Layout {...props}><InteriorHero title={ui.casespage_case_studies[locale]} description={ui.casespage_discover_how_our_solutions_have_transformed_businesses[locale]} image="0g1NFFzgEwVSVsRaGntwvAkeSIA.jpg"/><section className="df-container df-case-grid">{cases.map((item,i)=><Reveal key={item.slug} delay={(i%2)*.1}><Link href={`${props.basePath}/case-studies/${item.slug}`} className="df-case-card df-glass"><div className="df-case-image"><img src={asset(item.image)} alt={item.name} width="700" height="480" loading="lazy"/></div><div className="df-case-copy"><h2>{item.name}</h2><p>{item.description[locale]}</p><div className="df-tags">{item.tags.map(tag=><span key={tag}>{tag}</span>)}</div></div></Link></Reveal>)}</section></Layout>}

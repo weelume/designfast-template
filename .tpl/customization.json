@@ -1,0 +1,142 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌与宿主配置",
+      "description": "按实际源码入口修改，并同步检查中英文和响应式表现。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/designfast/config/brand.ts",
+          "kind": "file",
+          "purpose": "品牌与宿主配置"
+        },
+        {
+          "path": "src/features/site-templates/catalog/designfast/host.tsx",
+          "kind": "file",
+          "purpose": "品牌与宿主配置"
+        }
+      ],
+      "constraints": [
+        "保留中英文与对应路由",
+        "保持素材本地托管；参观视频为明确的按需 YouTube 嵌入",
+        "不引入真实表单发送、支付或账户服务"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语文案、服务、案例、价格和团队",
+      "description": "按实际源码入口修改，并同步检查中英文和响应式表现。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/designfast/content",
+          "kind": "directory",
+          "purpose": "双语文案、服务、案例、价格和团队"
+        }
+      ],
+      "constraints": [
+        "保留中英文与对应路由",
+        "保持素材本地托管；参观视频为明确的按需 YouTube 嵌入",
+        "不引入真实表单发送、支付或账户服务"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "颜色、字体、排版与滚动条",
+      "description": "按实际源码入口修改，并同步检查中英文和响应式表现。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/designfast/theme.css",
+          "kind": "file",
+          "purpose": "颜色、字体、排版与滚动条"
+        }
+      ],
+      "constraints": [
+        "保留中英文与对应路由",
+        "保持素材本地托管；参观视频为明确的按需 YouTube 嵌入",
+        "不引入真实表单发送、支付或账户服务"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "motion",
+      "title": "入场、循环、评价、FAQ 与视频",
+      "description": "按实际源码入口修改，并同步检查中英文和响应式表现。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/designfast/components/Primitives.tsx",
+          "kind": "file",
+          "purpose": "入场、循环、评价、FAQ 与视频"
+        },
+        {
+          "path": "src/features/site-templates/catalog/designfast/components/HomeSections.tsx",
+          "kind": "file",
+          "purpose": "入场、循环、评价、FAQ 与视频"
+        },
+        {
+          "path": "src/features/site-templates/catalog/designfast/components/StudioTour.tsx",
+          "kind": "file",
+          "purpose": "入场、循环、评价、FAQ 与视频"
+        }
+      ],
+      "constraints": [
+        "保留中英文与对应路由",
+        "保持素材本地托管；参观视频为明确的按需 YouTube 嵌入",
+        "不引入真实表单发送、支付或账户服务"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "routing",
+      "title": "页面注册与语言切换",
+      "description": "按实际源码入口修改，并同步检查中英文和响应式表现。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/designfast/meta.ts",
+          "kind": "file",
+          "purpose": "页面注册与语言切换"
+        },
+        {
+          "path": "src/features/site-templates/catalog/designfast/routing.ts",
+          "kind": "file",
+          "purpose": "页面注册与语言切换"
+        }
+      ],
+      "constraints": [
+        "保留中英文与对应路由",
+        "保持素材本地托管；参观视频为明确的按需 YouTube 嵌入",
+        "不引入真实表单发送、支付或账户服务"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-10-26T11:44:04.443Z",
+  "sourceCommit": null,
+  "sourceDigest": "aeb157b1bbd355a82b39aff325b4e234d988b7466207f54c4db810b5955e4f51",
+  "environment": {
+    "platform": "linux",
+    "arch": "x64",
+    "node": "v24.16.0",
+    "packageManager": "pnpm@9.15.4",
+    "cleanDirectory": false,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-26T11:40:29.158Z",
+      "finishedAt": "2026-10-26T11:40:31.377Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-26T11:40:31.377Z",
+      "finishedAt": "2026-10-26T11:40:34.884Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-26T11:40:34.884Z",
+      "finishedAt": "2026-10-26T11:40:35.689Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-26T11:40:35.689Z",
+      "finishedAt": "2026-10-26T11:41:00.834Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-10-26T11:41:01.750Z",
+      "reason": "隔离生产端口验证全部38条双语路径，仅停止本次启动的进程。"
+    }
+  ],
+  "limitations": [
+    "本地WSL Linux文件系统完成构建、类型、lint、3项路由测试及生产38条路径检查；协议元数据随后补齐并单独检查。",
+    "内置浏览器巡检19页×2语言×4视口共152组合，无标题缺失、横溢出或已加载坏图；十二张三端截图按实际像素记录。",
+    "菜单Escape关闭和背景锁定解除、语言保留页面/query/hash、FAQ、评价分页/前后/真实拖拽、循环速度与焦点暂停恢复已检查。",
+    "YouTube点击后已嵌入播放器；本地截图仍见缓冲，不承诺所有网络播放成功。",
+    "三端所有动效完整时间轴逐帧比较、真实触控设备、系统减少动态切换仍未全面验证；不能标记完整动效验收通过。",
+    "第三方素材商业再分发许可未核实，listed=false、redistributionAllowed=false。"
+  ]
+}
